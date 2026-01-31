@@ -1,9 +1,9 @@
 <h1 align="center">HEY 👋 IT'S ME Siddharth Patil</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">Data Analyst | Python • SQL • Power BI • Excel | Turning Data into Insights</h3>
 
 ---
 
-## 🚀 My Portfolio Website
+## 🚀 Portfolio
 🔗 Portfolio: https://yourlink.com
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
@@ -13,44 +13,62 @@
 ## 🌐 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/yourlink" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
 </a>
-<a href="https://instagram.com/yourlink" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" width="40" />
+<a href="mailto:youremail@gmail.com" target="blank">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40"/>
 </a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Data Analytics Tools & Skills
 
-### Frontend
+### 📌 Programming & Query Languages
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
 </p>
 
-### Backend
+### 📊 Visualization & BI Tools
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" height="45"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="45"/>
+<img src="https://img.icons8.com/color/48/tableau-software.png" height="45"/>
+<img src="https://matplotlib.org/_static/images/logo2.svg" height="45"/>
 </p>
+
+### 🧹 Data Cleaning & Analysis
+<p>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45"/>
+<img src="https://img.icons8.com/color/48/google-sheets.png" height="45"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+| Project | Tools | Description |
+|---------|-------|-------------|
+| Retail Sales Data Analysis | Python, Pandas | EDA and business insights |
+| HR Analytics Dashboard | Power BI | Employee attrition dashboard |
+| SQL Employee Database | SQL | Query analysis project |
+| Excel Sales Dashboard | Excel | Interactive dashboard |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 GitHub Streak
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
