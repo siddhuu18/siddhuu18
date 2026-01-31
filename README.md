@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Siddharth Patil
 
-<!--
-**siddhuu18/siddhuu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | Python | SQL | Power BI | Excel
 
-Here are some ideas to get you started:
+I turn raw data into meaningful insights and interactive dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🛠️ Skills
+- Python (Pandas, NumPy, Matplotlib)
+- SQL
+- Excel & Power Query
+- Power BI Dashboards
+- Data Cleaning & EDA
+
+---
+
+## 📂 Featured Data Analytics Projects
+
+| Project | Tools | Description |
+|---------|-------|-------------|
+| Retail Sales Analysis | Python, Pandas | EDA and sales insights |
+| HR Analytics Dashboard | Power BI | Employee attrition analysis |
+| COVID Data Analysis | Python | Data visualization project |
+| Excel Sales Dashboard | Excel | Interactive dashboard |
+
+---
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)
+
+---
+
+## 🔗 Connect with Me
+- LinkedIn: your link
+
 -->
