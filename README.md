@@ -46,11 +46,11 @@ https://your-portfolio.vercel.app
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="www.linkedin.com/in/siddharth-patil-1b0bb5312">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="sp4327944@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
