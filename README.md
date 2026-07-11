@@ -1,74 +1,229 @@
-<h1 align="center">HEY 👋 IT'S ME Siddharth Patil</h1>
-<h3 align="center">Data Analyst | Python • SQL • Power BI • Excel | Turning Data into Insights</h3>
+<h1 align="center">Hi 👋, I'm Siddharth Patil</h1>
+
+<h3 align="center">
+Computer Engineering Student | Java Developer | Full Stack Developer | Data Analytics Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;Full+Stack+Developer;Data+Analytics+Enthusiast;Future+Software+Engineer;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-## 🚀 Portfolio
-🔗 Portfolio: https://yourlink.com
+# 🚀 About Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+🎓 Computer Engineering Student (2027)
+
+💻 Passionate about Full Stack Development
+
+☕ Solving Data Structures & Algorithms in Java
+
+📊 Building Data Analytics dashboards using Power BI
+
+🌱 Currently Learning
+
+- Spring Boot
+- MERN Stack
+- AWS Cloud
+- System Design
+- SQL Optimization
+
+🎯 Goal
+
+Become a Software Engineer at a top Product or MNC Company.
 
 ---
 
-## 🌐 Connect with me
+# 🌐 Portfolio
+
+🔗 Portfolio Website
+
+https://your-portfolio.vercel.app
+
+---
+
+# 📫 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/yourlink" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:youremail@gmail.com" target="blank">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40"/>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
 </p>
 
 ---
 
-## 🛠️ Data Analytics Tools & Skills
+# 💻 Tech Stack
 
-### 📌 Programming & Query Languages
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
-</p>
+### Programming
 
-### 📊 Visualization & BI Tools
 <p>
-<img src="https://img.icons8.com/color/48/power-bi.png" height="45"/>
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="45"/>
-<img src="https://img.icons8.com/color/48/tableau-software.png" height="45"/>
-<img src="https://matplotlib.org/_static/images/logo2.svg" height="45"/>
-</p>
 
-### 🧹 Data Cleaning & Analysis
-<p>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45"/>
-<img src="https://img.icons8.com/color/48/google-sheets.png" height="45"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
 </p>
 
 ---
 
-## 📂 Featured Projects
-| Project | Tools | Description |
-|---------|-------|-------------|
-| Retail Sales Data Analysis | Python, Pandas | EDA and business insights |
-| HR Analytics Dashboard | Power BI | Employee attrition dashboard |
-| SQL Employee Database | SQL | Query analysis project |
-| Excel Sales Dashboard | Excel | Interactive dashboard |
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=vite"/>
+
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+</p>
+
+---
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+</p>
+
+---
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=siddhuu18&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhuu18&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=siddhuu18&theme=tokyonight"/>
+
 </p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=siddhuu18&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhuu18&theme=tokyo-night"/>
+
+---
+
+# 🚀 Featured Projects
+
+⭐ MERN Job Portal
+
+⭐ AI Resume Analyzer
+
+⭐ Retail Demand Forecasting
+
+⭐ Sales Dashboard (Power BI)
+
+⭐ Portfolio Website
+
+⭐ Java DSA Repository
+
+---
+
+# 📚 Current Focus
+
+✅ DSA (Java)
+
+✅ Spring Boot
+
+✅ React
+
+✅ Node.js
+
+✅ SQL
+
+✅ Power BI
+
+✅ AWS
+
+---
+
+# 📈 2027 Goals
+
+✔ 300+ LeetCode Problems
+
+✔ 15+ Full Stack Projects
+
+✔ Open Source Contributions
+
+✔ AWS Certification
+
+✔ Internship at Top MNC
+
+✔ Software Engineer Role
+
+---
+
+### ⭐ Thanks for visiting my profile!
